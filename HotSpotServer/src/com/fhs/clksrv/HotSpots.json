@@ -1,0 +1,25 @@
+{
+    "hotspots": [
+        {
+            "name": "HS1",
+            "x": 150,
+            "y": 150,
+            "button": "left",
+            "clicks": 1
+        },
+        {
+            "name": "HS2",
+            "x": 165,
+            "y": 150,
+            "button": "right",
+            "clicks": 2
+        },
+        {
+            "name": "HS3",
+            "x": 180,
+            "y": 150,
+            "button": "middle",
+            "clicks": 3
+        }
+    ]
+}
